@@ -21,3 +21,8 @@ This section covers type qualifiers. Specifically,
 - `volatile`, and
 - `restrict`.
 Due to challenges with ubiquitously demonstrating `volatile` and `restrict` dummy code is provided to discuss their usage, but the code is not executed.
+
+## Section 4
+This section covers bitwise operations.
+- Challenge 1 demonstrates bit operations on several values and data types.
+- Challenge 2 demonstrates bit packing in a structure for efficient memory use.

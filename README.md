@@ -2,9 +2,9 @@
 Code for Udemy [Advanced C Programming Course](https://www.udemy.com/course/advanced-c-programming-course/).
 Credit: [Jason Fedlin](https://www.udemy.com/course/advanced-c-programming-course/#instructor-2)
 
-This course is broken into several sections each with a specific focus. Each folder in the `challenges` directory contains my own implementation of the instructor-prescribed "challenges" for each of the course sections. 
+This course is broken into several sections each with a specific focus. Each folder in the `challenges` directory contains my own implementation of the instructor-prescribed "challenges" for each of the course sections. The section numbers in this repository do not necessarily correspond with the course sections since the course has many introductory sections that do not have challenges. Additionally, some liberty is taken in certain challenges in order to better demonstrate certain tasks.
 
-Challenges can be run and compiled with `Make` via `make -s section <X>` where `<x>` is the section number. Each sub challenge will be run in that sections directory. Note that the option `-s` is provided to silently run `make` and provides a cleaner output.
+Challenges can be run and compiled with `Make` via `make -s section <X>` where `<X>` is the section number. Each sub challenge will be run in that sections directory. Note that the option `-s` is provided to silently run `make` and provides a cleaner output.
 
 ## Section 1
 This section covers storage classes and namespaces. Understanding of the majority of different commonly used storage classes is demonstrated.
